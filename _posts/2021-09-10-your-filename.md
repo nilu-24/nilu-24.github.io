@@ -1,9 +1,0 @@
----
-published: false
----
-# Concept Blog Week 1
-This week we learnt about what matrices are: So, we can always try to learn a bit more!
-
--Ranks
--Vectors
--Nullity
